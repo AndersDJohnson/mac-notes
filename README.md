@@ -1,5 +1,5 @@
-# mac
-Mac stuff.
+# mac-notes
+Mac notes. A.K.A. OS X.
 
 See also:
 * [AndersDJohnson/dotfiles](https://github.com/AndersDJohnson/dotfiles)
