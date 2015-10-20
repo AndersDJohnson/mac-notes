@@ -8,7 +8,7 @@ See also:
 
 ## Hotkeys
 
- Name | Hotkey
+Name | Hotkey
 --- | ---
 Screenshot (full) | (⌘)-Shift-3
 Screenshot (part) | (⌘)-Shift-4
