@@ -8,6 +8,9 @@ See also:
 
 ## Hotkeys
 
+See also:
+* https://support.apple.com/en-us/HT201236
+
 Name | Hotkey
 --- | ---
 Screenshot (full) | (⌘)-Shift-3
