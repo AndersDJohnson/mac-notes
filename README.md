@@ -13,6 +13,7 @@ See also:
 
 Name | Hotkey
 --- | ---
+Help menu search | (⌘)-Shift-/
 Screenshot (full) | (⌘)-Shift-3
 Screenshot (part) | (⌘)-Shift-4
 Screenshot (window) | (⌘)-Shift-4 Space
