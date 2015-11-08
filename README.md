@@ -17,3 +17,24 @@ Help menu search | (⌘)-Shift-/
 Screenshot (full) | (⌘)-Shift-3
 Screenshot (part) | (⌘)-Shift-4
 Screenshot (window) | (⌘)-Shift-4 Space
+
+## Users & Groups
+
+### Create Group
+
+First check:
+```
+dscl . -read /Groups/mysql
+```
+
+Then create:
+```
+dscl . -create /Groups/mysql gid 296
+```
+
+http://serverfault.com/a/171619
+
+### Add User to Group
+```
+sudo dseditgroup -o edit -a usernametoadd -t user admin
+```
