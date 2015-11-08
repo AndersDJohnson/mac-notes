@@ -24,12 +24,12 @@ Screenshot (window) | (⌘)-Shift-4 Space
 
 First check:
 ```
-dscl . -read /Groups/mysql
+sudo dscl . -read /Groups/mysql
 ```
 
 Then create:
 ```
-dscl . -create /Groups/mysql gid 296
+sudo dscl . -create /Groups/mysql gid 296
 ```
 
 http://serverfault.com/a/171619
