@@ -1,7 +1,9 @@
 # mac-notes
 Mac notes. A.K.A. OS X.
 
-See also:
+## See Also
+* [AndersDJohnson/unix-notes][unix-notes]
+* [AndersDJohnson/windows-notes][windows-notes]
 * [AndersDJohnson/dotfiles](https://github.com/AndersDJohnson/dotfiles)
   * [install-mac.sh](https://github.com/AndersDJohnson/dotfiles/blob/master/install-mac.sh)
 * [AndersDJohnson/applescripts](https://github.com/AndersDJohnson/applescripts)
@@ -38,3 +40,6 @@ http://serverfault.com/a/171619
 ```
 sudo dseditgroup -o edit -a usernametoadd -t user admin
 ```
+
+[unix-notes]: https://github.com/AndersDJohnson/unix-notes
+[windows-notes]: https://github.com/AndersDJohnson/windows-notes
