@@ -13,12 +13,21 @@ Mac notes. A.K.A. OS X.
 See also:
 * https://support.apple.com/en-us/HT201236
 
+Key | Symbol
+--- | ---
+Command | `⌘`
+Shift | `⇧`
+Option | `⌥`
+Control | `⌃`
+Caps Lock | `⇪`
+
 Name | Hotkey
 --- | ---
-Help menu search | (⌘)-Shift-/
-Screenshot (full) | (⌘)-Shift-3
-Screenshot (part) | (⌘)-Shift-4
-Screenshot (window) | (⌘)-Shift-4 Space
+Help menu search | `⌘` `⇪` `/`
+Screenshot (full) | `⌘` `⇪` `3`
+Screenshot (part) | `⌘` `⇪` `4`
+Screenshot (window) | `⌘` `⇪` `4` `Space`
+Force Quit apps | `⌘` `⌥` `Esc`
 
 ## Users & Groups
 
