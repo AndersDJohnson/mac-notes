@@ -28,6 +28,7 @@ Screenshot (full) | `⌘` `⇪` `3`
 Screenshot (part) | `⌘` `⇪` `4`
 Screenshot (window) | `⌘` `⇪` `4` `Space`
 Force Quit apps | `⌘` `⌥` `Esc`
+Force Quit current app | `⌘` `⌥` `⇧` `Esc`
 
 ## Users & Groups
 
