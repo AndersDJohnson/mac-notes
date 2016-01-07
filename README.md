@@ -47,7 +47,7 @@ http://serverfault.com/a/171619
 
 ### Add User to Group
 ```
-sudo dseditgroup -o edit -a $USERNAMETOADD -t user $GROUP
+sudo dseditgroup -o edit -a $USERNAME -t user $GROUP
 ```
 
 [unix-notes]: https://github.com/AndersDJohnson/unix-notes
