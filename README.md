@@ -53,3 +53,10 @@ sudo dseditgroup -o edit -a $USERNAME -t user $GROUP
 
 [unix-notes]: https://github.com/AndersDJohnson/unix-notes
 [windows-notes]: https://github.com/AndersDJohnson/windows-notes
+
+## Networking
+
+### Default Gateway
+```
+route -n get default
+```
