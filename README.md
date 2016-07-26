@@ -17,17 +17,17 @@ Key | Symbol
 --- | ---
 Command | `⌘`
 Shift | `⇧`
+Caps Lock | `⇪`
 Option | `⌥`
 Control | `⌃`
-Caps Lock | `⇪`
 
 Name | Hotkey
 --- | ---
 Lock screen | `^` `⇧` `Esc` or `^` `⇧` `Power`
-Help menu search | `⌘` `⇪` `/`
-Screenshot (full) | `⌘` `⇪` `3`
-Screenshot (part) | `⌘` `⇪` `4`
-Screenshot (window) | `⌘` `⇪` `4` `Space`
+Help menu search | `⌘` `⇧` `/`
+Screenshot (full) | `⌘` `⇧` `3`
+Screenshot (part) | `⌘` `⇧` `4`
+Screenshot (window) | `⌘` `⇧` `4` `Space`
 Force Quit apps | `⌘` `⌥` `Esc`
 Force Quit current app | `⌘` `⌥` `⇧` `Esc`
 
