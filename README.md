@@ -16,10 +16,10 @@ See also:
 Key | Symbol
 --- | ---
 Command | `⌘`
-Shift | `⇧`
-Caps Lock | `⇪`
 Option | `⌥`
 Control | `⌃`
+Shift | `⇧`
+Caps Lock | `⇪`
 
 Name | Hotkey
 --- | ---
