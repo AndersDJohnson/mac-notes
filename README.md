@@ -23,6 +23,7 @@ Caps Lock | `⇪`
 
 Name | Hotkey
 --- | ---
+Lock screen | `^` `⇧` `Esc` or `^` `⇧` `Power`
 Help menu search | `⌘` `⇪` `/`
 Screenshot (full) | `⌘` `⇪` `3`
 Screenshot (part) | `⌘` `⇪` `4`
