@@ -1,5 +1,5 @@
 # mac-notes
-Mac notes. A.K.A. OS X.
+Mac notes. A.K.A. OS X, macOS.
 
 ## See Also
 * [AndersDJohnson/unix-notes][unix-notes]
