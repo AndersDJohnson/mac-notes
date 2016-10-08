@@ -61,3 +61,10 @@ sudo dseditgroup -o edit -a $USERNAME -t user $GROUP
 ```
 route -n get default
 ```
+
+## Software Update
+
+### Fix stuck
+```
+softwareupdate -i -a
+```
