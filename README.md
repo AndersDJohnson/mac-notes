@@ -68,3 +68,16 @@ route -n get default
 ```
 softwareupdate -i -a
 ```
+
+## Longer notifications
+
+http://osxdaily.com/2014/01/29/change-notifications-banner-time-mac-os-x/
+
+```
+defaults write com.apple.notificationcenterui bannerTime 100
+```
+
+reset:
+```
+defaults delete com.apple.notificationcenterui bannerTime
+```
