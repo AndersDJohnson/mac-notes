@@ -81,3 +81,11 @@ reset:
 ```
 defaults delete com.apple.notificationcenterui bannerTime
 ```
+
+## Full Keyboard Access
+
+Enable this.
+
+> With Full Keyboard Access, you use the Tab key and arrow keys to navigate to items on the screen, and the Space bar to select an item.
+
+https://support.apple.com/en-us/HT204434
