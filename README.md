@@ -2,11 +2,11 @@
 Mac notes. A.K.A. OS X, macOS.
 
 ## See Also
-* [AndersDJohnson/unix-notes][unix-notes]
-* [AndersDJohnson/windows-notes][windows-notes]
-* [AndersDJohnson/dotfiles](https://github.com/AndersDJohnson/dotfiles)
+* [unix-notes][unix-notes]
+* [windows-notes][windows-notes]
+* [dotfiles](https://github.com/AndersDJohnson/dotfiles)
   * [install-mac.sh](https://github.com/AndersDJohnson/dotfiles/blob/master/install-mac.sh)
-* [AndersDJohnson/applescripts](https://github.com/AndersDJohnson/applescripts)
+* [applescripts](https://github.com/AndersDJohnson/applescripts)
 
 ## Hotkeys
 
