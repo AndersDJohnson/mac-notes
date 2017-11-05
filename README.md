@@ -30,6 +30,7 @@ Screenshot (part) | `⌘` `⇧` `4`
 Screenshot (window) | `⌘` `⇧` `4` `Space`
 Force Quit apps | `⌘` `⌥` `Esc`
 Force Quit current app | `⌘` `⌥` `⇧` `Esc`
+Show hidden files | `⌘` `⇧` `.`
 
 ## Users & Groups
 
