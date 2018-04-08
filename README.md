@@ -31,6 +31,7 @@ Screenshot (window) | `⌘` `⇧` `4` `Space`
 Force Quit apps | `⌘` `⌥` `Esc`
 Force Quit current app | `⌘` `⌥` `⇧` `Esc`
 Show hidden files | `⌘` `⇧` `.`
+Emojis & Symbols | `⌘` `⌃` `Space`
 
 ## Users & Groups
 
