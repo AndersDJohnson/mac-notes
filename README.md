@@ -32,6 +32,8 @@ Force Quit apps | `⌘` `⌥` `Esc`
 Force Quit current app | `⌘` `⌥` `⇧` `Esc`
 Show hidden files | `⌘` `⇧` `.`
 Emojis & Symbols | `⌘` `⌃` `Space`
+Open a Dock Stacks folder in Finder | `⌘` `⌥` `Click`
+Show a Dock Stacks folder in parent folder in Finder | `⌘` `Click`
 
 ## Users & Groups
 
