@@ -88,11 +88,21 @@ defaults delete com.apple.notificationcenterui bannerTime
 
 ## Full Keyboard Access
 
-Enable this.
+Enable this. Under `System Preferences > Keyboard > Shortcuts` check "Use keyboard navigation to move focus between controls".
 
 > With Full Keyboard Access, you use the Tab key and arrow keys to navigate to items on the screen, and the Space bar to select an item.
 
 https://support.apple.com/en-us/HT204434
+
+## Disable key press & hold for character variants
+
+```
+defaults write -g ApplePressAndHoldEnabled -bool false
+```
+
+## Increase key press delay until repeat
+
+https://support.apple.com/guide/mac-help/set-how-quickly-a-key-repeats-mchl0311bdb4/mac
 
 ## Change screenshot location
 
